@@ -10,3 +10,9 @@
 * 自主选择图片
 * 流畅的动画
 * 现代的外观
+
+## 预览
+
+![风景](https://i.mji.rip/2024/05/03/4c907db82581c5e23cd43ed1c8323c98.png)
+![风景](https://i.mji.rip/2024/05/03/e105506963b73f46ecfe6cd377bb996a.png)
+![风景](https://i.mji.rip/2024/05/03/aa3928da708f41c986ed9cac0e315afd.png)
